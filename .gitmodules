@@ -1,0 +1,3 @@
+[submodule "gdraknet/raknet"]
+	path = gdraknet/raknet
+	url = git@github.com:antarktikali/RakNet.git
