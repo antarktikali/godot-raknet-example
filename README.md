@@ -27,8 +27,8 @@ Just compile the Godot engine as usual and you are good to go.
 on other platforms.
 
 You can check the example project for Godot which is included under the
-`example\_project` directory.
+`example_project` directory.
 
 You can learn more about using custom C++ modules with Godot from the following
 link:
-https://github.com/okamstudio/godot/wiki/custom\_modules
+https://github.com/okamstudio/godot/wiki/custom_modules
